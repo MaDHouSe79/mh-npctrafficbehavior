@@ -30,7 +30,7 @@
 
 # Installation
 - Step 1: First stop your server.
-- Step 2: Copy the directory `mh-parkinV2` to `resources/[mh]/`.
+- Step 2: Copy the directory `mh-npctrafficspeed` to `resources/[mh]/`.
 - Stap 3: Add `ensure [mh]` in `server.cfg` below `ensure [defaultmaps]`.
 - Step 4: Start your server. 
 
