@@ -5,32 +5,32 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficspeed/issues">
-    <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-npctrafficspeed"/> 
+  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/issues">
+    <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-npctrafficbehavior"/> 
   </a>
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficspeed/watchers">
-    <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-npctrafficspeed"/> 
+  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/watchers">
+    <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-npctrafficbehavior"/> 
   </a> 
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficspeed/network/members">
-    <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-npctrafficspeed"/> 
+  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/network/members">
+    <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-npctrafficbehavior"/> 
   </a>  
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficspeed/stargazers">
-    <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-npctrafficspeed?color=white"/> 
+  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/stargazers">
+    <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-npctrafficbehavior?color=white"/> 
   </a>
-  <a href="https://github.com/MaDHouSe79/mh-npctrafficspeed/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/MaDHouSe79/mh-npctrafficspeed?color=black"/> 
+  <a href="https://github.com/MaDHouSe79/mh-npctrafficbehavior/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/MaDHouSe79/mh-npctrafficbehavior?color=black"/> 
   </a>      
 </p>
 
 # My Youtube Channel
 - [Subscribe](https://www.youtube.com/c/@MaDHouSe79) 
 
-# MH npc traffic speed and drive style.
+# MH npc traffic behavior.
 - NPC vehicles drive a little faster and a little more recklessly than normal.
 
 # Installation
 - Step 1: First stop your server.
-- Step 2: Copy the directory `mh-npctrafficspeed` to `resources/[mh]/`.
+- Step 2: Copy the directory `mh-parkinV2` to `resources/[mh]/`.
 - Stap 3: Add `ensure [mh]` in `server.cfg` below `ensure [defaultmaps]`.
 - Step 4: Start your server. 
 
